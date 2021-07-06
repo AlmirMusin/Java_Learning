@@ -16,5 +16,7 @@
 
     The result of the program is written to the file result.txt
 
-    You can add your own types for recognition to Signatures.txt in the format: <TypeName, Signature in hexadecimal>. 
+    You can add your own types for recognition
+    to Signatures.txt in the format: <TypeName, Signature in hexadecimal>. 
+    
     For example: PNG, 89 50 4E 47 0D 0A 1A 0A
