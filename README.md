@@ -1,13 +1,13 @@
 # Java_Learning
 
 
-Educational java projects
+<h2>Educational java projects</h2>
 
-1. Transactions 
+<h3>1. Transactions</h3> 
    
    Using OOP on the example of classes of transactions and users
 
-2. <h3>Signatures</h3>
+<h3>2. Signatures</h3>
     
     Determines the file type by its signature (not by extension!)
     The list of recognized types is described in the signatures.txt file.
