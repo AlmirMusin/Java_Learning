@@ -4,9 +4,11 @@
 Educational java projects
 
 1. Transactions 
+   
    Using OOP on the example of classes of transactions and users
 
 2. Signatures
+    
     Determines the file type by its signature (not by extension!)
     The list of recognized types is described in the signatures.txt file.
 
