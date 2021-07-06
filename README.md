@@ -7,7 +7,7 @@ Educational java projects
    
    Using OOP on the example of classes of transactions and users
 
-2. Signatures
+2. <b>Signatures</b>
     
     Determines the file type by its signature (not by extension!)
     The list of recognized types is described in the signatures.txt file.
